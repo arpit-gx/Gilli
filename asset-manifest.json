@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gilli.github.io/static/css/main.6c0d92e7.chunk.css",
+    "main.js": "/gilli.github.io/static/js/main.c64b35da.chunk.js",
+    "main.js.map": "/gilli.github.io/static/js/main.c64b35da.chunk.js.map",
+    "runtime-main.js": "/gilli.github.io/static/js/runtime-main.3d5cc527.js",
+    "runtime-main.js.map": "/gilli.github.io/static/js/runtime-main.3d5cc527.js.map",
+    "static/js/2.27a0a76b.chunk.js": "/gilli.github.io/static/js/2.27a0a76b.chunk.js",
+    "static/js/2.27a0a76b.chunk.js.map": "/gilli.github.io/static/js/2.27a0a76b.chunk.js.map",
+    "index.html": "/gilli.github.io/index.html",
+    "precache-manifest.1628c9d6c0ad8a33e0ef1703932881d1.js": "/gilli.github.io/precache-manifest.1628c9d6c0ad8a33e0ef1703932881d1.js",
+    "service-worker.js": "/gilli.github.io/service-worker.js",
+    "static/css/main.6c0d92e7.chunk.css.map": "/gilli.github.io/static/css/main.6c0d92e7.chunk.css.map",
+    "static/js/2.27a0a76b.chunk.js.LICENSE.txt": "/gilli.github.io/static/js/2.27a0a76b.chunk.js.LICENSE.txt",
+    "static/media/GLXX.png": "/gilli.github.io/static/media/GLXX.61c2f99a.png",
+    "static/media/VRS.jpg": "/gilli.github.io/static/media/VRS.5ae71eed.jpg",
+    "static/media/logo.svg": "/gilli.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5cc527.js",
+    "static/js/2.27a0a76b.chunk.js",
+    "static/css/main.6c0d92e7.chunk.css",
+    "static/js/main.c64b35da.chunk.js"
+  ]
+}
